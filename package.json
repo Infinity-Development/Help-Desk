@@ -1,0 +1,74 @@
+{
+  "name": "@infinity/help-desk",
+  "description": "Official Help Desk/Support Center for Infinity Bot List",
+  "version": "1.0.0",
+  "author": "Toxic Dev <https://toxicdev.me>",
+  "bugs": {
+    "url": "https://github.com/InfinityBotList/Help-Desk/issues"
+  },
+  "dependencies": {
+    "@emotion/core": "10.0.28",
+    "@fortawesome/fontawesome-svg-core": "^1.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.0.0",
+    "@fortawesome/free-solid-svg-icons": "^6.0.0",
+    "@fortawesome/react-fontawesome": "^0.1.17",
+    "@mdx-js/react": "1.6.13",
+    "downshift": "5.4.7",
+    "fuse.js": "6.4.0",
+    "gatsby": "^2.19.17",
+    "gatsby-image": "^2.2.41",
+    "gatsby-plugin-feed": "^2.3.27",
+    "gatsby-plugin-google-analytics": "^2.1.35",
+    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-offline": "^3.0.34",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-sitemap": "2.4.11",
+    "gatsby-plugin-theme-ui": "0.3.0",
+    "gatsby-plugin-typography": "^2.3.22",
+    "gatsby-remark-copy-linked-files": "^2.1.37",
+    "gatsby-remark-images": "^3.1.44",
+    "gatsby-remark-prismjs": "^3.3.31",
+    "gatsby-remark-responsive-iframe": "^2.2.32",
+    "gatsby-remark-smartypants": "^2.1.21",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-remark": "^2.6.51",
+    "gatsby-transformer-sharp": "^2.3.14",
+    "gatsby-transformer-yaml": "2.4.10",
+    "prismjs": "^1.19.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "3.10.0",
+    "react-typography": "^0.16.19",
+    "slug": "3.3.2",
+    "styled-components": "^5.3.3",
+    "theme-ui": "0.3.1",
+    "typeface-merriweather": "0.0.72",
+    "typeface-montserrat": "0.0.75",
+    "typography": "^0.16.19",
+    "typography-theme-moraga": "0.16.19"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "homepage": "https://github.com/InfinityBotList/Help-Desk#readme",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "GPL-3.0",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfinityBotList/Help-Desk.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  }
+}

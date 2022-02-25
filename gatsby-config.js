@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Infinity Help Center`,
+    title: `Infinity Support`,
     author: `Infinity Bot List`,
-    description: `Get a free self-hosted Help Center like this one`,
+    description: `Official Help/Support Desk for Infinity Bot List`,
     siteUrl: `https://support.infinitybots.gg`,
     language: "en",
     texts: {
       allCollectionsText: "All Collections",
       searchPlaceholderText: "Search for answers…",
-      lastModifiedText: "Last edited",
-      publishedOnText: "Published on",
-      writtenByText: "Written by",
+      lastModifiedText: "Last edited:",
+      publishedOnText: "Published on:",
+      writtenByText: "Published by:",
       articlesInCollectionZeroText: "articles in this collection",
       articlesInCollectionOneText: "article in this collection",
       articlesInCollectionTwoText: "articles in this collection",
@@ -70,12 +70,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

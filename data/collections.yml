@@ -1,0 +1,59 @@
+## Announcements and News Section
+- id: announcements
+  title: Announcements
+  description: Everything you need to know about our Recent Updates and Issues.
+  icon: "FaBullhorn"
+  sections: 
+    - id: New_Releases
+      title: New Releases
+      articles: 
+        - file: ../content/announcements/new_releases/stats_page.md
+    - id: Recent_Issues
+      title: Recent Issues
+      articles: 
+        - file: ../content/announcements/recent_issues/mongo_failures.md
+
+## Frequently Asked Questions Section
+- id: faqs
+  title: Frequently Asked Questions
+  description: Answers to some of our Frequently Asked Questions
+  icon: FaQuestionCircle
+  articles:
+    - file: ../content/frequently_asked/approval_info.md
+    - file: ../content/frequently_asked/denial_info.md
+    - file: ../content/frequently_asked/mini_modding.md
+    - file: ../content/frequently_asked/staff_pings.md
+
+## Server Guidelines and Rules Section
+- id: server-guidelines
+  title: Discord Server Guidelines
+  description: Our Discord Server Rules and Guidelines!
+  icon: FaDiscord
+  articles:
+    - file: ../content/infinity_guidelines/server_guidelines/server_rules.md
+    - file: ../content/infinity_guidelines/server_guidelines/server_policies.md
+    - file: ../content/infinity_guidelines/server_guidelines/server_guidelines.md
+
+## Bot Guidelines and Rules Section
+- id: bot-guidelines
+  title: Discord Bot Guidelines
+  description: Our Discord Bot and Bot Page Rules and Guidelines!
+  icon: FaRobot
+  articles:
+    - file: ../content/infinity_guidelines/bot_guidelines/bot_rules.md
+    - file: ../content/infinity_guidelines/bot_guidelines/bot_pages.md
+
+## Staff Guidelines and Rules Section
+- id: staff-guidelines
+  title: Server Staff Guidelines
+  description: Answers to some of our Frequently Asked Questions
+  icon: FaUserShield
+
+## Program Information Section
+- id: program-info
+  title: Infinity Bots Programs
+  description: Answers to some of our Frequently Asked Questions
+  icon: FaCertificate
+  articles:
+    - file: ../content/infinity_programs/certification.md
+    - file: ../content/infinity_programs/partnership.md

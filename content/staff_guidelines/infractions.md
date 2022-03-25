@@ -1,5 +1,5 @@
 ---
-title: Infractions
+title: User Infractions
 date: 2022-03-24
 author: ToxicDev
 modifiedDate: null

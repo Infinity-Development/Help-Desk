@@ -7,6 +7,7 @@
     - id: New_Releases
       title: New Releases
       articles: 
+        - file: ../content/announcements/new_releases/sec_update.md
         - file: ../content/announcements/new_releases/stats_page.md
     - id: Recent_Issues
       title: Recent Issues

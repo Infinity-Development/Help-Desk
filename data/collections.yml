@@ -49,6 +49,7 @@
   description: List of Our Discord Staff Rules and Guidelines
   icon: FaUserShield
   articles:
+    - file: ../content/staff_guidelines/why.md
     - file: ../content/staff_guidelines/infractions.md
 
 ## Program Information Section

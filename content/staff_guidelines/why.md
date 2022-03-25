@@ -7,7 +7,7 @@ description: "OMG! Did you just put staff documents online for everyone to see?!
 icon: FAHammer
 ---
 
-We personally believe the more visible our actions are, the more accountable and consistant we are with any actions we take as Moderators or Administrators. This site is built with the idea to help the Paradise Bot List team enforce our rules and policies but, honestly, can be modified and used by any server.
+We personally believe the more visible our actions are, the more accountable and consistant we are with any actions we take as Moderators or Administrators. This collection is built with the idea to help the Infinity Bot List team enforce our rules and policies but, honestly, can be modified and used by any server.
 
 Processes outlined here are more about sharing the overall intent.  While they are written to be followed step-by-step, our staff should feel free to diverge from them should they feel it necessary.
 

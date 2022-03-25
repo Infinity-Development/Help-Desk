@@ -4,7 +4,7 @@ date: 2022-03-24
 author: ToxicDev
 modifiedDate: null
 description: "Information about how our Staff Team handles any Infractions"
-icon: FaInfoCircle
+icon: FAHammer
 ---
 
 Everyone here is about having a fun time. But rule breaks are going to happen. 

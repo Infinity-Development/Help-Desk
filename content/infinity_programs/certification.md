@@ -7,6 +7,8 @@ description: "Information about the Infinity Bot List Certification Program"
 icon: FaInfoCircle
 ---
 
+Exceptions can be made to the requirements below under the right circumstances! 
+
 ## Certification Requirements
 * All bots must meet these requirements before being considered for Certification.
  1. Has atleast 30 unique views on bot page.
